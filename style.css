@@ -465,6 +465,7 @@ thead tr th{
     border-bottom: 0 !important;
 }
 .table td {
+    text-wrap: nowrap !important;
     padding: 32px 20px;
     text-align: center;
     text-wrap: nowrap;
@@ -692,6 +693,7 @@ footer {
     }
     .nav-dropdown-item-wrapper {
         height: 40px;
+        margin-bottom: 8px;
     }
     .banner-text {
         padding-top: 50px;
